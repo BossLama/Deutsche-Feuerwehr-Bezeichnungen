@@ -1,2 +1,5 @@
 # Deutsche-Feuerwehr-Bezeichnungen
-JSON-Libary for german firefighter designated
+Eine JSON-Libary für Bezeichnungen in der deutschen Feuerwehr
+
+# Dienstgrade und Funktionen
+
