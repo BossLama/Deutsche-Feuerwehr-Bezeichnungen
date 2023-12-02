@@ -1,0 +1,77 @@
+[
+    {
+       "name":"Jugenfeuerwehr",
+       "type":"Mannschaftsdienstgrade",
+       "unique-rank":"0"
+    },
+    {
+       "name":"Feuerwehranwärter/-in",
+       "type":"Mannschaftsdienstgrade",
+       "unique-rank":"1"
+    },
+    {
+       "name":"Feuerwehrmann/-frau",
+       "type":"Mannschaftsdienstgrade",
+       "unique-rank":"2"
+    },
+    {
+       "name":"Oberfeuerwehrmann/-frau",
+       "type":"Mannschaftsdienstgrade",
+       "unique-rank":"3"
+    },
+    {
+       "name":"Hauptfeuerwehrmann/-frau",
+       "type":"Mannschaftsdienstgrade",
+       "unique-rank":"4"
+    },
+    {
+       "name":"Löschmeister",
+       "type":"Führungsdienstgrade",
+       "unique-rank":"5"
+    },
+    {
+       "name":"Oberlöschmeister",
+       "type":"Führungsdienstgrade",
+       "unique-rank":"6"
+    },
+    {
+       "name":"Hauptlöschmeister",
+       "type":"Führungsdienstgrade",
+       "unique-rank":"7"
+    },
+    {
+       "name":"Brandmeister",
+       "type":"Höhere Führungsdienstgrade:",
+       "unique-rank":"8"
+    },
+    {
+       "name":"Oberbrandmeister",
+       "type":"Höhere Führungsdienstgrade:",
+       "unique-rank":"9"
+    },
+    {
+       "name":"Hauptbrandmeister",
+       "type":"Höhere Führungsdienstgrade:",
+       "unique-rank":"10"
+    },
+    {
+       "name":"Kommandant",
+       "type":"Besondere Führungsfunktionen:",
+       "unique-rank":"11"
+    },
+    {
+       "name":"Kreisbrandmeister",
+       "type":"Besondere Führungsfunktionen:",
+       "unique-rank":"12"
+    },
+    {
+       "name":"Kreisbrandinspektor",
+       "type":"Besondere Führungsfunktionen:",
+       "unique-rank":"13"
+    },
+    {
+       "name":"Kreisbrandrat",
+       "type":"Besondere Führungsfunktionen:",
+       "unique-rank":"14"
+    }
+ ]
