@@ -36,7 +36,11 @@ Die Struktur ist wie folgend aufgebaut:
        "name":"Jugenfeuerwehr",
        "type":"Mannschaftsdienstgrade",
        "unique-rank":"0"
-    },
-    [...]
+    }    
 ]
 ```
+Folgende Typen wurden unterschieden:
+- Mannschaftsdienstgrade
+- Führungsdienstgrade
+- Höhere Führungsdienstgrade
+- Besondere Führungsfunktionen
